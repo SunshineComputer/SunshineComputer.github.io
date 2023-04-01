@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Oswald&display=swap');
+
+body{
+    background-color:#000000;
+
+}
+
+.SCSlogo{
+    margin: auto;
+    display: flex;
+    justify-self: center;
+    height:500px;
+    width:650px;
+}
+
+#header{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    background-color: lightskyblue;
+    font-size: 35pt;
+    
+}
+
+#light{
+    color:yellow;
+}
+
+#slide{
+    height: auto;
+    width:auto;
+
+}
+
+.tech_gurus{
+    margin: auto;
+    display: flex;
+    justify-self: center;
+    background-color: #ffffff;
+
+}
+
+#returntochaos{
+    margin: auto;
+    display: flex;
+    justify-self: center;
+    color:lightblue;
+    background-color: #ffffff;
+    border-radius: 9px;
+}
+
+.ser_header{
+    color: yellow;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 35pt;
+}
+
+#blue{
+    background-color: lightskyblue;
+}
+
+.des{
+    color: white;
+    text-align: center;
+    font-size: 25pt;
+    font-family: 'Merriweather', serif;
+
+}
+
+#note{
+    color: white;
+    text-align: center;
+    font-size: 10pt;
+    font-family: 'Merriweather', serif;
+
+
+}
+
+.yellow{
+    color: yellow;
+}
+
+.menuButton{
+    margin: auto;
+    display: flex;
+   justify-self: center;
+    height: 150px;
+    width: 250px;
+}
